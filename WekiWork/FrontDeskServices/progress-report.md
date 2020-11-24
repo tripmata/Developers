@@ -320,3 +320,6 @@ host | string | Database connection host
 user | string | Authorized user to database
 pass | string | Authorized user password to database
 name | string | Database name 
+
+## scripts
+Added ```storage``` and ```host``` address globally for all javascript files.
