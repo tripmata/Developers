@@ -5,7 +5,7 @@ Project | Project Link | Developer | Date started | Date completed | Documentati
 --------|--------------|-----------|--------------|----------------|-------------------
 Front Desk Service | [https://github.com/tripmata/FrontDeskService] | WekiWork | 22/10/2020 | 23/10/2020 | [https://github.com/tripmata/Developers/blob/master/WekiWork/FrontDeskServices/documentation.md]
 Front Desk Area | [https://github.com/tripmata/FrontDeskArea] | WekiWork | 23/10/2020 | 24/10/2020 | [https://github.com/tripmata/Developers/blob/master/WekiWork/FrontDeskArea/documentation.md]
-Client Services | [https://github.com/tripmata/ClientServices] | WekiWork | unknown | unknown | unknown
+Client Services | [https://github.com/tripmata/ClientServices] | WekiWork | 24/10/2020 | 24/10/2020 | [https://github.com/tripmata/Developers/blob/master/WekiWork/ClientServices/controllers.md] or [https://github.com/tripmata/Developers/blob/master/WekiWork/ClientServices/documentation.md]
 Client Area | [https://github.com/tripmata/ClientArea] | WekiWork | unknown | unknown | unknown
 Admin Services | [https://github.com/tripmata/AdminServices] | WekiWork | unknown | unknown | unknown
 Admin Area | [https://github.com/tripmata/AdminArea] | WekiWork | unknown | unknown | unknown
