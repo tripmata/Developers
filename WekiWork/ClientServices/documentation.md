@@ -1,5 +1,5 @@
 # Documentation
-Official documentation for client services
+Official documentation for client services. See contollers documentation here [https://github.com/tripmata/Developers/blob/master/WekiWork/ClientServices/controllers.md]
 
 ## Project structure
 ```plain
@@ -50,6 +50,7 @@ Class | Description
 
 ### config.php
 ```config.php``` was created for global configuration. It has a constant MODE that could either be set to ```development``` or ```live```. Here are some of the methods available;
+
 1. ```Configuration::database()```
 
 This method would return the default database connection setting as an object. Can be toggled with the MODE constant. See array structure below;
@@ -61,6 +62,15 @@ user | string | Authorized user to database
 pass | string | Authorized user password to database
 name | string | Database name 
 
+2. ```Configuration::url()```
+
+This method would return the default URL configuration for storage and the host url. You can also add and send the url settings in your HTTP request header as demostrated below.
+
+```json
+"x-url-config" : {
+    "host" : "http://example.com/"
+}
+```
 
 ### Help us make this doc great!
 
