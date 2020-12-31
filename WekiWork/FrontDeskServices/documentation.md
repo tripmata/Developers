@@ -68,7 +68,8 @@ This method would return the default URL configuration for storage and the host 
 ```json
 "x-url-config" : {
     "host" : "http://example.com/",
-    "storage" : "http://static.example.com/"
+    "storage" : "http://static.example.com/",
+    "messaging" : "http://messaging.example.com/",
 }
 ```
 
